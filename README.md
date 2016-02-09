@@ -1,2 +1,4 @@
-# kirimin-subscribe-widget
-Kirimin subscribe widget for wordpress
+kirimin-wp-subscribe-widget
+==========================
+
+Kirimin subscribe widget plugin for wordpress
